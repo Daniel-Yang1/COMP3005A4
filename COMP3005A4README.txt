@@ -1,3 +1,5 @@
+Link to demo: https://youtu.be/Q4mQEwp-nss
+
 The database I used was a previously used database called postgres with 
 username postgres and password admin, though it was created locally.
 Prior to running the script you will need to create a database with 
